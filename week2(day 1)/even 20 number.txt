@@ -1,0 +1,16 @@
+To print  sum of 1 to 20 even numbers
+step 1:start
+step 2:delcare  the variables sum,count
+step 3:assing the values count=1,sum=0,
+step 4:check if the count value is divisible by 2 or not(count%2==0). if it is divisible by 2 
+step 5:sum=sum+count
+step 6:count=count+1
+step 7:print sum
+step 8:repeatedly the step(4) to (7) until it reaches the count value less than  or equal to 20(count<=20)
+step 9:stop 
+
+flowchart: 
+diagrmateic pictorial representation of an alogrithm
+
+
+

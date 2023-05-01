@@ -1,0 +1,143 @@
+factorial number?
+step 1:start
+step 2:decleare n,i
+step 3:assing i=1,n=6
+step 4:if(n%i==0)
+step 5:print i
+step 6:i=i+1
+step 7:repeatedly the step(4) to step (6) until(i<=n)otherwise go to step(8)
+step 8:stop
+
+find the perfect number or not?
+step 1:start
+step 2:delcare n,i,sum
+step 3:assing the value n=6,i=1,sum=0
+step 4:if(n%i==0)
+step 5:sum=sum+i
+step 6:i=i+1
+step 7:repeatedly the step(4) to step (8) until(i<n) otherwise go to step(12)
+step 8:if (n==sum)
+step 9:print perfect 
+step 10:else print not perfect
+step 11:stop
+
+find the power number?
+step 1:start
+step 2:delecare variables base,result,i,exp
+step 3:initialize the values base=2,i=1
+step 4:result=base*i
+step 5:check base<=result
+
+
+
+
+
+pseudocode:
+informal way of writing a program
+
+1.declaration
+2.input
+3.process
+4.output
+
+
+
+1.begin
+//display "enter the value of side"
+2.decleare side,area
+3.input side
+4.area=side*side
+5.display area
+6.end
+
+greatest number between two numbers
+1.begin
+2.decleare num1,num2
+3.input the values num1,num2
+4.if(num1>num2)
+print num1 is greater
+else 
+print num2 is greater
+end if
+end
+
+print day of the week
+ 
+begin
+declare num
+input num
+if(num==1)
+print "Monday"
+else if(num==2)
+print "tuesday"
+else if(num==3)
+print "wednesay"
+else if(num==4)
+print "thrusday
+else if(num==5)
+print "friday"
+else if(num==6)
+print "saturday"
+else if(numm==7)
+print "sunday"
+else
+print "invalid number"
+end if
+end
+
+print three numbers?
+
+1.begin
+2.declare variables a,b,c
+3.input the variables a,b,c
+4.if(a>b&&a>c)
+5.print a is big
+else if b>c
+7.print b is big
+else 
+8.print c is big
+9.end if
+end 
+
+
+print bitlabs 5 times?
+ 
+begin
+declare count
+assin count=1
+while(count<=5) 
+do
+print bitlabs
+count=count+1
+end while
+end
+1. Addition of three numbers
+2.average of three numbers
+3.area of the rectangle,square
+4.perimeter of rectangle,square
+5.student - read 5 subject marks find the percentage
+6.student - read 5 subject marks find the percentage print A,B,C,D,E
+7.positive or negative number
+8.even or not
+9.odd or not
+10.voter eligiblity
+11.print bitlabs 10times
+12.print 1 to 10
+15.print sum of number upto 20
+16.print 1 to 20 even number 
+17.print 1 to 20 odd numbers
+18.print the sum of even numbers  from 1to 10
+19.print the sum of odd numbers  from 1to 10
+20.count the total even numbers from 1 to 50
+21.factor of a number
+22.perfect number
+
+
+
+5. Draw a flow chart on ATM transactions:
+a. Cash withdrawal flowchart
+b. Account balance inquiry flowchart
+c. Transfer funds flowchart
+d. Bill payment flowchart
+e. Change pin flowchart
+ 

@@ -1,0 +1,284 @@
+addition of three numbers?
+ 1.begin
+ 2.declare n1,n2,n3,sum
+ 3.input the values n1,n2,n3
+ 4.sum=n1+n2+n3
+ 5.print sum
+ 6.end
+
+2.average of three numbers?
+1.begin
+2.declare n1,n2,n3,sum,avg
+3.input the values n1,n2,n3
+4.sum=n1+n2+n3
+5.calculate average=sum/3
+6.print sum and average
+7.end
+
+
+3.area of rectangle?
+1.begin
+2.delcare length,breadth,area of rectangle
+3.input length,breadth
+4.area of rectangle=length*breadth
+5.print area of rectangle
+6.end
+
+4.area of square
+1.begin
+2.declare side,area of square
+3.input side
+4.area of square=side*side
+5.print area of square
+6.end
+ 
+5.perimeter of  rectangle
+1.begin
+2.delcare length,breadth,perimeter of rectangle
+3.input length,breadth
+4.perimeter of rectangle=2(length*breadth)
+5.print perimeter
+6.end
+
+6.perimeter of square
+1.begin
+2.delcare side,perimeter of square
+3.input side
+4.perimeter of square=4*side
+5.print perimeter
+6.end
+
+
+7student -read 5 subjects marks find the percentage?
+1.begin
+2.declare s1,s2,s3,s4,s5,totalmarks,obtain marks,percentage
+3.input the values s1,s2,s3,s4,s5
+4.totalmarks=500
+5.obtain marks=s1+s2+s3+s4+s5
+6.perctage=(obtain marks/total marks)*100
+7.print perctange
+8.end
+
+
+8.student - read 5 subjects find percentage and grade?
+1.begin
+2.declare s1,s2,s3,s4,s5,perctage,grade
+3.input s1,s2,s3,s4,s5
+4.percentage=(s1+s2+s3+s4+s5/500)*100
+5.print percentage
+6.if percentage>=90
+ print grade a
+7.else if percentage>=80
+print grade b
+8.else if percentage >=70
+print grade c
+9.else if percentage >=60
+print grade d
+10.if percentage >=40
+print grade e
+11.else if percentage >40
+print fail
+12.end if
+13.end
+
+9.postive or not?
+1.begin
+2.declare  n
+3.input n
+4.if(n>==0)
+print postive number
+else 
+print negative number
+5.end if
+6.end
+
+10.even or not
+1.begin
+2.declare the number n
+3.input n
+4.if(n%2==0)
+print even number
+else 
+print not even number
+5.end if
+6.end
+
+
+11.odd or not?
+1.begin
+2.declare the number n
+3.input n
+4.if(n%2!==0)
+print odd number
+else
+print not odd number
+5.end if
+6.end
+
+12.vote eligibel or not?
+1.begin
+2.declage age
+3.input age
+4.if(age>=18)
+print vote eligibel
+else 
+print not eligibel to vote
+5.end if
+6.end
+
+13.print bitlabs 10 tims?
+1.begin
+2.declear count
+3.assing count=1
+4.while(count<=10) 
+do
+5.print bitlabs
+6.count=count+1
+7.end while
+8.end
+
+14.print 1 to 10 numbers?
+1.begin
+2.declear count
+3.assing the value count=1
+4.while(count<=10)
+do
+5.print count
+6.count=count+1
+7.end while
+8.end
+
+
+15.print sum of numbers upto 20?
+1.begin
+2.declare count,sum,n
+3.assing count=1,sum=0
+4.while(n<=20)
+do
+5.sum=sum+count
+6.print sum
+7.count=count+1
+8.end while
+9.end
+
+16.print  sum of1 to 20 even numbers?
+1.begin
+2.delcare count,sum
+3.assign count=1,sum=1
+4.while(count<=20)
+do
+5.if(n%2==0)
+6.sum=sum+1
+7.print sum
+8.end if
+9.count=count+1
+10.end while
+11.end
+
+
+17.print  sum of 1 to 20 odd numbers?
+1.begin
+2.declare count,sum
+3.assing count=1,sum=1
+4.while(count<=20)
+do
+5.if(n%2!==0)
+6.sum=sum+1
+7.print sum
+8.end if
+9.count=count+1
+10.end while
+11.end
+
+18.print 1 to 20 even number?
+1.begin
+2.declare count,n
+3.assing count=1
+4.while(count<=20)
+do
+5.if(n%2==0)
+6.print even
+7,end if
+8.count=count+1
+9.end while
+10.end
+
+19.print 1 to 20 odd number?
+1.begin
+2.declare count,n
+3.assing count=1
+4.while(count<=20)
+do
+5.if(n%2!==0)
+6.print odd
+7.end if
+8.count=count+1
+9.end while
+10.end
+
+20.count the total even numbers from 1 to 50
+1.begin
+2.declare count
+3.assing the value count=1
+4:while(count<=50)
+do
+5.if(n%2==0)
+6.end while
+7.count=count+1
+8.end if
+9.print count
+10.end
+
+21.factor of a number?
+1.begin
+2.declare n,count,res
+3.assing the count=1,res=1
+4.while(count<=n)
+do
+5.res=count*res
+6.count=count+1
+7.end while
+8.print result
+9.end
+
+22.perfect number?
+1.begin
+2.declare n,i,sum
+3.assing i=1,sum=0
+4.while(i<n)
+do
+5.if(n%i==0)
+6.sum=sum+i
+7.end if
+8.i=i+1
+9.end while
+10. if(n==sum)
+11.print perfect number
+else
+print not perfect number
+12.end if
+13.end
+
+23.To find number print digit format
+1.begin
+2.declare n,digit
+3.input n=254
+4.while(n>0)
+do
+5.digit=num%10
+6.print digit
+7.num=num/10
+8.end while
+9.end
+
+
+
+24
+4. Draw a flow chart on Online shopping:
+a. Order processing flowchart
+b. Returns and exchanges flowchart
+c. Payment processing flowchart
+d. Customer account management flowchart
+
+
+

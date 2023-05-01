@@ -1,0 +1,63 @@
+hotel managemnt?
+  step 1: start
+step 2: visit the website
+step 3: register using mobile number
+step 4: enter the otp sent to your mobile number
+step 5:  enter the customer name and address
+step 6: stop
+
+ 
+
+
+menu card
+step 1: start
+step 2: visit the menu
+step 3: catogerize items according to
+        starters
+        main course
+        beverages
+        chineese
+        icecreams
+        mocktails
+step4: stop
+
+ 
+
+
+placing the order
+
+ 
+
+step 1: select the required food items
+step 2: add the food items to cart if there are two or more items
+step 3: add the address wether its home or office
+step 4: select type of payment by UPI, Debit card, credit card ash on delivery
+step : select proceed with payment
+step 9: select place order
+step 10: order placed successfully
+step 12: stop
+
+ 
+
+ 
+
+order delivery
+step 1: start
+step 2: track order using order ID
+step 3: send customer deliver agent details through mobile number
+step 4: order delivered
+step 5: stop
+
+ 
+
+
+delivery rating 
+step 1: start
+step 2: rate your order and delivery timesatisfaction from 1 to 5 
+step 3: thank you for rating
+step 4: stop
+
+ 
+
+
+ 

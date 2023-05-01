@@ -1,0 +1,45 @@
+=write an alogithm sum of 1 to 100 numbers?
+step 1:start
+step 2:delecare the count,sum
+step 3:assing the value 1 to count,sum=0
+step 4:sum=sum+count
+step 5:increment count value by 1 and store the value into count(count<--count+1)
+step 6:repeat the steps4 and step 5 until it  reach count value is lessthan or equal to(count<=10)
+step 7: print sum
+step 8:stop
+
+
+
+
+write an alogrithm to find 1 to 100 even numbers
+step 1:start
+step 2:declare number n,
+step 3:repeatedly the steps(4) to step(5)
+         until(n<=100)
+step 4:n=n+1
+step 5:if(n%2==0)
+step 6:print " even numbers"
+step 7:stop
+  
+
+
+write an alogithm to find  1 to 100 odd numbers?
+step 1:start
+step 2:delecare the numbers n
+step 3:repeatedly the steps(4) to step(6)
+      until(n<=100)
+step 4:n=n+1
+step 5:if(n%2!==0)
+step 6:print "odd numbers"
+step 7:stop
+
+1 to 100 even numbers?
+
+step1:start
+step2:declare count variable
+step3:assigning the value 1 into count
+step4:check if the count value is divisible by 2 or not(count%2==0). if it is divisible by 2 goto step5 otherwise goto step6
+step5:print count
+step6:increment the count value by 1 (count=count+1)
+step7:repeat the step 4,5,6 until it reaches the count value lessthan or equal to 100 (count<=100)
+step8:stop

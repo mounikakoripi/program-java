@@ -1,0 +1,177 @@
+1)check vote eligible or not?
+
+step 1:start
+step 2:delcare the age
+step 3:read the age
+step 4:check age is graterthan or equal to 18
+step 5:print eligible to vote 
+step 6:otherwise print not eligible to vote
+step 7:stop
+
+
+
+2. Check your Admission possibility to your dream College based on your academic marks?.
+    step 1:start
+    step 2:delcare the admission the college,marks
+    step 3:read the admission on the college
+    step 4:check marks is graterthan 60%  or equals to 60%
+           display your admission is possibility
+   step 5:otherwise your admission is not possibility
+    step 6:stop
+ 
+
+
+3. Find the sum and average of three numbers?
+ step 1:start
+ step 2:delecare the three numbers n1,n2,n3,sum,average
+ step 3:read the values into n1,n2,n2
+ step 4:sum<---n1+n2+n3
+ step 5:average<---sum/3
+ step 6:print average
+ step 7:stop
+
+4. Flowchart to log in to Facebook account with valid email address and password?.
+step 1:start
+step 2:delecare the username,password
+step 3:read the username,password
+step 4:click login option
+step 5:if the username,password
+       print login successfully
+step 6:otherwise print not possible to login
+step 7:pop message invalid username,password
+step 8:stop
+
+5)donate blood ?
+step 1:start
+step 2:delecare blood group and age,health condition
+step 3:read the values into blood group and age
+step 4:if you blood age is graterthan 18 and group and health condition
+step 5:compare the all condition are satisifed
+step 6:print you eligible to donate blood
+step 7:otherwise you not eligible to donate blood
+step 8:stop
+
+6)Algorithm to Predict Winning Chances on the basis Live Cricket Score?.
+step 1:start
+step 2:delecare the team1,team2,win
+step 3:read the values team1,team2
+step 4:if team1 score 185 then team 2 playing
+step 5:check the team1 previous match got win 3
+        print team1 is win
+step 6:otherwise print team2 is not win
+step 7:stop
+
+
+7)write an alogrithm print bitlabs 10 times
+step 1:start
+step 2: delcare count
+step 3:assiging the value 1 to count variable(count=1)
+step 4:print bitlabs
+step 5:incrementing count value by 1 and store the value into count(count=count+1)
+step 6:repeat the steps4 and 5 until it reaches count value is lessthanthan 10(count<=10)
+step 7:stop
+
+8)how to write a algorithm to printing 1 to 10 numbers?
+step 1:start
+step 2:delecare the count
+step 3:assing the value 1 to count
+step 4:print count
+step 5:increment count value by 1 and store the value into count(count<--count+1)
+step 6:repeat the steps4 and step 5 unti it  reach count value is lessthan or equal to(count<=10)
+step 7:stop
+
+9)write a alogithm to printing 10 to 1 numbers?
+step 1:start
+step 2:delecare count
+step 3:assing the value 10 to count
+step 4:print count
+step 5:decrement count value by 1 and stor the value into count(count<--count-1)
+step 6:repeat the steps4 and steps5 until it reach count value is graterthan or equal to 1(count>=1)
+step 7:stop
+
+
+
+
+mini project in atm transactions?
+ i)change the atm pin
+  Ii)witdraw money
+iii)deposite money
+iv)mini statemnet
+v)balance equary
+  
+step 1:start
+step 2:insert the atm card
+step 3:select the language
+step 4:enter the pin number
+step 5:enter otp number
+step 6:enter new pin number
+step 7:confirm pin number
+step 8:display your pin successfully
+step 9:stop
+  
+
+withdraw money
+---------------------
+step 1:start
+step 2:insert the atm card
+step 3: select the language
+step 4:select the saving account/current account
+step 5:enter the money
+step 6:enter pin number
+step 7: display your account insufficent amount 
+step 8:receive you money
+step 9:if you want print yes or no
+step 10:stop   
+ 
+
+
+
+deposite money 
+-------------
+step 1:start
+step 2:insert the atm card
+step 3:select the language
+step 4:select the account type
+step 5: select the option withdram/deposite
+step 6:select the option deposite
+step 7:enter self deposit
+step 8:enter pin number
+step 9:insert the money
+step 10:amount successfully add to account
+step 11:if you want to print yes or no
+step 12: remove the card
+step 13:stop
+
+mini statement
+-------------
+
+step 1:start
+step 2:insert the card
+step 3:select the language
+step 4:enter account type(saving/current)
+step 5:enter the pin
+step 6:choose the option mini statement
+step 7:printing the mini statement
+step 8:otherwise wrong pin
+step 9:stop
+
+
+balance enquary
+-------------
+step 1:start
+step 2:insert the atm card
+step 3:select the language
+step 4:select the account type
+step 5:enter pin number
+step 7:choose the balance option
+step 8:display the balance
+step 9:if you want print yes or no
+step 10:stop
+
+
+
+
+
+
+
+

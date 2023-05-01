@@ -1,0 +1,159 @@
+
+2)area of rectangle
+step 1:start
+step 2:delecare length,breadth,area of rectangle
+step 3:read the length,breadth
+step 4:area of rectangle<---length*breadth
+step 5:print "area of rectangle"
+step 6:stop
+ 
+3)perimeter
+
+
+step1:start
+step2:delecare length,breadth,perimeter
+step3:read the values length, breadth
+step4:calculate tne perimeter of rectangle using the formula 
+       perimeter<---2(length*breadth)
+step5:print "perimeter"
+step 6:stop
+
+
+4)area of square
+step1:start
+step2:delecare side,area
+step3:read the value into side
+step4:calculate area of square using formula
+       area<----side*side
+step5:print "area"
+step6:stop
+
+5)how to write an algorithm for simple interest?
+step1:start
+step2:delecare principle amount,no of years,rate of interest,simple interest
+step3:read the principle amount,no of years,rate of interest 
+step4:calculate simple interest using formula
+      simple interest<---(principle amount*no of years*rate of interest)/100
+step5:print "simple interest"
+step6:stop
+         
+6)write an alogrithm to read the 5 subject marks for student and find the percentage ?
+step 1:start
+step 2:delecare the values subj1 marks,subj2 marks,subj3 marks,subj4 marks,subj5 marks,percentage,total
+step 3:read the subj1 marks,subj2 marks,subj3 marks,subj4 marks,subj5 marks
+step 4:totalmarks<---500
+step 5:obtainedmarks<---subj1 marks+sub2 marks+sunj3 marks+subj4 marks+subj5 marks
+step 6:calculate percentage<--(obtainedmarks/total marks)*100
+step 7:print "percentage"
+step 8:stop
+
+
+7)swapping of two numbers
+step 1:start
+step 2:delecare the a<--10,b<---20,temp
+step 3:read the value a<--10,b<--20
+step 4:display a,b before swap
+step 5:perform the swap operation by using  following steps(5)to(7)
+        i)temp<--a
+        ii)a<--b 
+        iii)b<---temp
+step 6:print " swap of a,
+step 8:stop
+
+8)without using temp value swap numberss
+ 
+step 1:start
+step 2:input two numbers a,b
+step 3:read the numbers a,b
+step 4:display before swap values
+step 5:a=a+b-a
+step 6:b=a+b-b
+step 7:a=a-b
+step 8:display after swap values a,b
+step 9:stop 
+ 
+9)even number or not even number?
+step 1:start
+step 2:delecare the number n
+step 3:read the value into n
+step 4:if(n%2==0)
+step 5:print  "number is even number"
+step 6:print "not even number"
+step 7:stop
+
+10)postive number or negative number
+step 1:start
+step 2:delecar the number n
+step 3:read the number n
+step 4:if(n>==0)
+      print "postive number"
+step 5:else if(n<==0)
+       print "negative number"
+step 6:stop
+
+11)algorithm for findind the greatest number two numbers?
+ step 1:start
+ step 2:delecare the numbers n1,n2
+ step 3:read the numbers n1,n2
+ step 4:if(n1>=n2)
+        print "n1 is greaterthan number"
+        else
+       print "n2 is graterthan number"
+ step 5:stop
+
+12)To find  largest three numbers
+   step 1:start
+   step 2:declare the numbers n1,n2,n3
+   step 3:read the values  into n1,n2,n3
+   step 4:if(n1>n2)&&(n1>n3)
+          print "n1 is greater"
+  step 5:else if(n2>n3)
+         print "n2 is greater"
+  step 6:print "n3 is greater"
+  step 7:stop
+
+
+13)Write an algorithm to input marks of five subjects Physics, Chemistry, Biology,     Mathematics and Computer. Calculate percentage and grade according to     following:
+    Percentage >= 90% : Grade A
+    Percentage >= 80% : Grade B
+    Percentage >= 70% : Grade C
+    Percentage >= 60% : Grade D
+    Percentage >= 40% : Grade E
+    Percentage < 40% : Grade F
+  step 1:start
+  step 2:delecare the subjects phys,chem,biol,maths,comp,percentage,grade
+  step 3:read the values into phys,chem,biol,maths,comp
+  step 4:calculate the percentage<----((phys+chem+biol+maths+comp)/500)*100
+  step 5:print percentage
+  step 6:if percentage >=90% 
+         print grade a
+ step 7: else if percentage >=80%
+        print grade b
+  step 8:if percentage >=70%
+         print grade c
+   step 9:if percentage >=60%
+          print grade d
+   step 10:if percentage <=40%
+           print grade e
+   step 11:if percentage<40%
+           print grade f
+   step 12:stop 
+
+14)write an alogrithm for check an alphabet is vowel or consonant?
+
+step 1:start
+step 2:delcare alphabet 
+step 3:read the alphabet
+step 4:if(alphabet==a,e,i,o,u)
+       print " it is vowel"
+       else
+        print " it is consonant"
+step 5:stop  
+ 
+
+
+
+
+
+
+
