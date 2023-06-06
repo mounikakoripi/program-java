@@ -24,6 +24,22 @@
 import java.util.Scanner;
 
 public class Expression {
+  public static void main(String []args)
+  {
+    Scanner sc=new Scanner(System.in);
+    System.out.println("enter the a value:");
+    int a=sc.nextInt();
+    System.out.println("enter the b value:");
+    int b=sc.nextInt();
+    b=a-- - --a;
+    int c=a--;
+    int d=a>>2;
+    int e=a&b;
+    System.out.println(b);
+    System.out.println(c);
+      System.out.println(d);
+    System.out.println(e);
+  }
 
 //main method
 

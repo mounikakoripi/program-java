@@ -18,7 +18,19 @@
 import java.util.Scanner;
 
 public class Swapping {
-
+public static void main(String []args)
+  {
+    Scanner sc=new Scanner(System.in);
+    System.out.println("enter the first number:");
+    int a=sc.nextInt();
+    System.out.println("enter the second value:");
+    int b=sc.nextInt();
+    System.out.println("before swapping numbers is:"+a+" "+b);
+    a=a+b;
+    b=a-b;
+    a=a-b;
+    System.out.println("after swapping numbers is:"+a+" "+b);
+  }
 //main method
 
 /*

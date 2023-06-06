@@ -28,11 +28,14 @@ public class BooleanOperation{
   public static void main(String []args)
   {
     Scanner sc=new Scanner(System.in);
-    System.out.println("enter the x as boolean value(true/false):");
-    boolean x=sc.nextBollean();
-    System.out.println("enter the y as boolean value(true/false):");
-    x&&y;
-    x||y;
+    System.out.println("enter the x as boolean value:");
+    boolean x=sc.nextBoolean();
+    System.out.println("enter the y as boolean value:");
+    boolean y=sc.nextBoolean();
+   System.out.println( "the value is:" +(x&&y));
+   System.out.println ("the value is:" +(x||y));
+   System.out.println( "the value is:" +(!x));
+   System.out.println ("the value is:" +(!y));
     
   }
 }
@@ -48,4 +51,3 @@ public class BooleanOperation{
 
 //print apppropriate result for boolean operations
 
-}

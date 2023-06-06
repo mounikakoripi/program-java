@@ -11,9 +11,22 @@
 
 //import statements for java program to read inputs using Scanner class
 import java.util.Scanner;
-
-public class Operations {
-
+ class Operations {
+  public static void main(String []args)
+  {
+    Scanner sc=new Scanner(System.in);
+    System.out.println("enter the a value:");
+    int a=sc.nextInt();
+    System.out.println("enter the b value:");
+    int b=sc.nextInt();
+    System.out.println("the difference of two numbers is:"+(a-b));
+    System.out.println("the difference of two numbers is:"+(a*b));
+    System.out.println("the difference of two numbers is:"+(a%b));
+    System.out.println("the difference of two numbers is:"+(a++));
+    System.out.println("the difference of two numbers is:"+(a--));
+    System.out.println("the difference of two numbers is:"+(a/b));
+  }
+  }
 //main method
 
 /*
@@ -31,4 +44,3 @@ public class Operations {
 
 //print appropriate result for all operations
 
-}
