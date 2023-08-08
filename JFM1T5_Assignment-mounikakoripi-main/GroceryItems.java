@@ -23,7 +23,24 @@
 import java.util.Scanner;
 
 public class GroceryItems {
-
+  public static void main(String []args)
+  {
+    Scanner sc=new Scanner(System.in);
+    double price[]=new double[10];
+    System.out.println("enter the 10 prices");
+    for(int i=0;i<price.length;i++)
+      price[i]=sc.nextDouble();
+      double max=price[0];
+      for(int j=0;j<price.length;j++){
+      
+        if(max<price[j]){
+          max=price[j];
+  }
+      }
+     System.out.println("the highest price you incurred is " +max );
+    
+  }
+}
 //Define the main method
 
 //Declare and initialize variables
@@ -36,4 +53,4 @@ public class GroceryItems {
 
 //Print the result
 
-}
+
